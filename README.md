@@ -1,0 +1,3 @@
+Pneumonia is a serious lung infection that can be life-threatening if not diagnosed and treated promptly. Traditional diagnosis through chest X-rays requires expert radiologists and can be time-consuming. This project aims to build an automated deep learning model using Convolutional Neural Networks (CNNs) to detect pneumonia from chest X-ray images. 
+
+By leveraging image classification techniques and a labeled dataset of X-ray scans, the model can assist in early detection and support medical professionals in making faster and more accurate diagnoses. The goal is to demonstrate how AI can contribute meaningfully to healthcare through scalable and accessible diagnostic tools.
